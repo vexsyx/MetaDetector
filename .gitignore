@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.venv/
+.tmp/
+.pyarmor/
+build/
+dist/
+*.spec
+pyarmor.bug.log
+
+# source files
+bootstrapper.py
+main.py
+build.py
+requirements.txt
+update_support.py
+
+# other
+*.log
+.vscode/
