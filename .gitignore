@@ -7,6 +7,7 @@ build/
 dist/
 *.spec
 pyarmor.bug.log
+tests/
 
 # source files
 bootstrapper.py
@@ -14,6 +15,8 @@ main.py
 build.py
 requirements.txt
 update_support.py
+aura_filter.py
+dashboard.py
 
 # other
 *.log
