@@ -17,6 +17,7 @@ requirements.txt
 update_support.py
 aura_filter.py
 dashboard.py
+installer.py
 
 # other
 *.log

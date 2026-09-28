@@ -1,0 +1,83 @@
+{
+    "colors": {
+        "54_xyz": "#5129c8",
+        "OBLIVION": "#7740d6",
+        "MYTHICAL": "#c44345",
+        "LEGENDARY": "#b37a2b",
+        "EPIC": "#6344b2",
+        "RARE": "#3d7cb0",
+        "UNCOMMON": "#59b256",
+        "COMMON": "#9d9d9d",
+        "OTHER": "#5f6162"
+    },
+    "items": {
+        "54_xyz": {
+            "???": {
+                "term": "xyz potion",
+                "color": "#3e5dd1"
+            }
+        },
+        "OBLIVION": {
+            "Oblivion Potion": {
+                "term": "oblivion potion",
+                "color": "#7740d6"
+            }
+        },
+        "MYTHICAL": {
+            "Godlike Potion": {
+                "term": "godlike potion",
+                "color": "#ffee01,#00f2ff,#ff0000"
+            },
+            "Transcendent Potion": {
+                "term": "transcendent potion",
+                "color": "#ffea75"
+            },
+            "Tear of the Goddess": {
+                "term": "tear of the goddess",
+                "color": "#eb99ff"
+            }
+        },
+        "LEGENDARY": {
+            "Heavenly Potion": {
+                "term": "heavenly potion",
+                "color": "#fb96d9"
+            },
+            "Tidal Shifter Potion": {
+                "term": "tidal shifter potion",
+                "color": "#8097ff"
+            },
+            "Warp Potion": {
+                "term": "warp potion",
+                "color": "#75fdff"
+            }
+        },
+        "EPIC": {
+            "Potion of Bound": {
+                "term": "potion of bound",
+                "color": "#4584f1"
+            }
+        },
+        "RARE": {
+            "Popping Potion": {
+                "term": "popping potion",
+                "color": "#ff6f6f"
+            }
+        },
+        "UNCOMMON": {},
+        "COMMON": {},
+        "OTHER": {
+            "Potion of the Dunes": {
+                "term": "potion of the dunes",
+                "color": "#ff6f6f"
+            },
+            "Red Moon Potion I": {
+                "term": "red moon potion i",
+                "color": "#ff6f6f"
+            },
+            "Red Moon Potion II": {
+                "term": "red moon potion ii",
+                "color": "#ff6f6f"
+            }
+        }
+    }
+}
