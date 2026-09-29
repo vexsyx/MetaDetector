@@ -1,0 +1,58 @@
+[
+  {
+    "role": "Developer",
+    "name": "vex",
+    "description": "Creator of Meta Detector and Oyster Detector. Meta Detector was commissioned, and will continue receiving updates and bug fixes when needed.",
+    "asset": "vex.png",
+    "links": {
+      "Ko-fi": "https://ko-fi.com/vexsyx",
+      "GitHub": "https://github.com/vexsyx",
+      "Website": "https://vexsys.site",
+      "Discord": "https://discord.com/users/1018875765565177976"
+    }
+  },
+  {
+    "role": "Commissioned By",
+    "name": "K. Saiko",
+    "description": "Commissioned Meta Detector and helped shape what it became.",
+    "asset": "saiko.gif",
+    "links": {
+      "Discord": "https://discord.com/users/481491983999959040"
+    }
+  },
+  {
+    "role": "Inspiration",
+    "name": "Noteab",
+    "description": "Noteab Macro creator and inspiration.",
+    "asset": "tea.png",
+    "links": {}
+  },
+  {
+    "role": "Inspiration",
+    "name": "Maxstellar",
+    "description": "Created the original biome macro and provided heavy inspiration.",
+    "asset": "maxstellar.png",
+    "links": {
+      "GitHub": "https://github.com/maxstellar"
+    }
+  },
+  {
+    "role": "Community",
+    "name": "Sol's Sniper",
+    "description": "A community dedicated to making rare Sol's RNG servers easier to find.",
+    "asset": "sols_sniper.webp",
+    "links": {
+      "Discord": "https://discord.gg/solsniper",
+      "Website": "https://solsniper.vexsys.site"
+    }
+  },
+  {
+    "role": "Helpful",
+    "name": "Scope Development",
+    "description": "Great developers and a great community. We share code and assets from time to time.",
+    "asset": "scope_development.webp",
+    "links": {
+      "Discord": "https://discord.gg/scopedev"
+    }
+  }
+]
