@@ -1,0 +1,69 @@
+META DETECTOR END USER LICENSE AGREEMENT
+Version 1.0
+
+IMPORTANT: READ THIS AGREEMENT BEFORE INSTALLING OR USING META DETECTOR.
+
+By selecting "Accept", installing, launching, or using Meta Detector, you agree
+to this End User License Agreement ("Agreement"). If you do not agree, select
+"Decline" and do not install, launch, or use the software.
+
+1. LICENSE
+Meta Detector is licensed, not sold. You receive a limited, personal,
+non-exclusive, non-transferable, revocable license to use the software for its
+intended purpose.
+
+2. REVERSE ENGINEERING AND PROTECTION BYPASS
+You may not reverse engineer, decompile, disassemble, decrypt, decode, unpack,
+dump, translate, reconstruct, or otherwise attempt to discover or obtain the
+source code, protected payloads, encryption material, internal logic, or
+non-public assets of Meta Detector. You may not bypass, disable, remove, or
+interfere with obfuscation, encryption, license checks, availability checks,
+update checks, integrity checks, or other technical protection measures.
+
+You may not use debuggers, deobfuscators, decompilers, memory dumpers, binary
+patchers, or similar tools for those purposes, nor distribute instructions,
+tools, modified builds, or extracted material that enable another person to do
+so. This restriction applies except to the limited extent that applicable law
+expressly grants a non-waivable right.
+
+3. COPYING, REDISTRIBUTION, AND MODIFICATION
+You may not copy, resell, sublicense, redistribute, publish, rent, lease,
+commercially exploit, or create derivative works from Meta Detector without
+prior written permission from its developer. You may not remove or alter
+copyright, credit, branding, or attribution notices.
+
+4. UPDATES AND ONLINE FEATURES
+Meta Detector may contact remote services to verify availability, retrieve
+configuration data, check for updates, and provide features requested by the
+user. Updates may change, replace, or discontinue features. Continued use after
+an update constitutes acceptance of the then-current software and Agreement.
+
+5. USER RESPONSIBILITY
+You are responsible for how you configure and use Meta Detector and for
+complying with applicable laws, platform rules, and third-party terms. You must
+not use the software to harm systems, services, or other people.
+
+6. DISCLAIMER OF WARRANTIES
+Meta Detector is provided "as is" and "as available", without warranties of
+any kind to the maximum extent permitted by law. The developer does not promise
+that the software will be uninterrupted, error-free, or compatible with every
+system or third-party service.
+
+7. LIMITATION OF LIABILITY
+To the maximum extent permitted by law, the developer will not be liable for
+indirect, incidental, special, consequential, or punitive damages, or for loss
+of data, access, profits, or use arising from Meta Detector.
+
+8. TERMINATION
+This license terminates automatically if you violate this Agreement. Upon
+termination, you must stop using Meta Detector and delete all copies in your
+possession or control.
+
+9. CHANGES TO THIS AGREEMENT
+A future release may require acceptance of a newer EULA version. Acceptance is
+recorded locally and applies only to the version identified in that record.
+
+10. CONTACT
+Questions and permission requests may be directed through the Meta Detector
+support server: https://discord.gg/3A9ZRg6tTH
+

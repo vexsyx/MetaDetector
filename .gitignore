@@ -18,6 +18,7 @@ update_support.py
 aura_filter.py
 dashboard.py
 installer.py
+eula_support.py
 backups/
 
 # other

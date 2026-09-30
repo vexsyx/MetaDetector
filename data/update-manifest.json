@@ -2,11 +2,11 @@
   "app": {
     "version": "0.6.7",
     "url": "https://github.com/vexsyx/MetaDetector/releases/download/v0.6.7/MetaDetector.exe",
-    "sha256": "930ba6ea9ebcdf825afea99d5abcfdb1721fc766e2d722bcf86bee4ce33407fe"
+    "sha256": "6e6ec1d3a7b2b17f501ad096f5398038cd627f3338761ebd42c335b3702e3ec8"
   },
   "bootstrapper": {
     "version": "1.0.0",
     "url": "https://github.com/vexsyx/MetaDetector/releases/latest/download/MetaDetector-Bootstrapper.exe",
-    "sha256": "b86aed81f84824087d525e244d415f2e5d511470b29734f768f677d6e3a8efd8"
+    "sha256": "3b4bb4dc8531ca72479f3915c837844c8167163c44fa2b2ceb73444a4f9cd485"
   }
 }
